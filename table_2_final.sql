@@ -22,7 +22,7 @@ FROM countries c
 WHERE continent = 'Europe'
 
 -- spojení obou tabulek přes JOIN (spojí pouze společné hodnoty)
-CREATE OR REPLACE TABLE t_katerina_rutova_SQL_secondary_final AS
+CREATE OR REPLACE TABLE t_katerina_rutova_project_SQL_secondary_final AS
 SELECT e.country,
 	e.`year`,
 	e.GDP,
