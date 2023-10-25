@@ -1,5 +1,5 @@
 # Engeto-SQL-Projekt-1
-## **Zpracování datových podkladů o mzdách a cenách potravin pomocí dotazovacího jazyku SQL**
+## **Zpracování datových podkladů o mzdách a cenách potravin pomocí dotazovacího jazyka SQL**
 ### **Abstrakt**
 Cílem projektu je vypracovat datové podklady, pomocí kterých bude možné porovnat dostupnost potravin s údaji o průměrných mzdách za sledovaná období.
 Výstupem budou dvě ucelené tabulky poskytující potřebné informace.
