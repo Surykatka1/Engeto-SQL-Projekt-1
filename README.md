@@ -2,7 +2,8 @@
 ## **Zpracování datových podkladů o mzdách a cenách potravin pomocí dotazovacího jazyku SQL**
 ### **Abstrakt**
 Cílem projektu je vypracovat datové podklady, pomocí kterých bude možné porovnat dostupnost potravin s údaji o průměrných mzdách za sledovaná období.
-Veškerá data potřebná k zodvovězení výzkumných otázek jsou k dispozici v následujících tabulkách (zdroj: Portál otevřených dat ČR):
+Výstupem budou dvě ucelené tabulky poskytující potřebné informace.
+Veškerá data potřebná k vytvoření tabulek a zodvovězení výzkumných otázek jsou k dispozici v následujících tabulkách (zdroj: Portál otevřených dat ČR):
 
   *czechia_payroll* – Informace o mzdách v různých odvětvích za několikaleté období
   
@@ -24,7 +25,8 @@ Veškerá data potřebná k zodvovězení výzkumných otázek jsou k dispozici 
   
   *countries* - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace
   
-  *economies* - HDP, GINI, daňová zátěž, atd. pro daný stát a rok. 
+  *economies* - HDP, GINI, daňová zátěž, atd. pro daný stát a rok
+
 
 
 
