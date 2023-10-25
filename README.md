@@ -8,13 +8,21 @@ Veškerá data potřebná k zodvovězení výzkumných otázek jsou k dispozici 
   *czechia_payroll_calculation* – Číselník kalkulací v tabulce mezd
   
   *czechia_payroll_industry_branch* – Číselník odvětví v tabulce mezd
+  
   *czechia_payroll_unit* – Číselník jednotek hodnot v tabulce mezd
+  
   *czechia_payroll_value_type* – Číselník typů hodnot v tabulce mezd
+  
   *czechia_price* – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR
+  
   *czechia_price_category* – Číselník kategorií potravin, které se vyskytují v našem přehled
+  
   *czechia_region* – Číselník krajů České republiky dle normy CZ-NUTS 2
+  
   *czechia_district* – Číselník okresů České republiky dle normy LAU
-  *countries* - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
+  
+  *countries* - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace
+  
   *economies* - HDP, GINI, daňová zátěž, atd. pro daný stát a rok. 
 
 
