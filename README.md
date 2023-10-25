@@ -3,6 +3,7 @@
 ### **Abstrakt**
 Cílem projektu je vypracovat datové podklady, pomocí kterých bude možné porovnat dostupnost potravin s údaji o průměrných mzdách za sledovaná období.
 Veškerá data potřebná k zodvovězení výzkumných otázek jsou k dispozici v následujících tabulkách (zdroj: Portál otevřených dat ČR):
+
   *czechia_payroll* – Informace o mzdách v různých odvětvích za několikaleté období
   
   *czechia_payroll_calculation* – Číselník kalkulací v tabulce mezd
