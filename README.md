@@ -33,11 +33,17 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
   V rámci projektu byly připraveny požadované tabulky (primary/secondary). Primary tabulka byla použita k vypracování otázek č.1-4,    
   secondary tabulka posloužila k zodpovězení otázky č.5.
   
-   *t_katerina_rutova_SQL_primary_final_table* - Tabulka obsahuje data týkající se mezd a cen potravin pro ČR sjednocené na porovnatelné  
-   období tj. společné roky.
+   *t_katerina_rutova_SQL_primary_final_table* - Tabulka obsahuje data týkající se mezd a cen potravin pro ČR sjednocené na porovnatelné období tj. společné roky.
 
-   Finální script, kterým je vytvořena primární tabulka, založená na výběru konkrétních hodnot za společné období (2006-2018)
+   Finální script, kterým je vytvořena primární tabulka, založená na výběru konkrétních hodnot za společné období (2006-2018):
    https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/b9b0d36b0089afa6786f78a41bbfccd5c67c19d2/table_1_final.sql#L134-L149
+
+   *t_katerina_rutova_SQL_secondary_final_table* - Tato tabulka vznikla spojením tabulky countries a economies. Data byla opět filtrována    pro společná období a Evropu. 
+
+   Finální script, kterým je vytvořena sekundární tabulka:
+   https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/cbb07fd9b885d7048de719550dd05e1f6223b650/table_2_final.sql#L25-L37
+
+   
 
 
 
