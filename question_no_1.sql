@@ -38,16 +38,21 @@ CREATE OR REPLACE VIEW v_katerina_rutova_pay_trend AS
 		WHEN differences < 0 THEN 'decreasing'
 		ELSE 'no changes'
 	END AS 'payroll_trend'
-FROM v_katerina_rutova_payroll_trend vkrpt
+FROM v_katerina_rutova_payroll_trend vkrpt 
 ORDER BY industry_branch_code,common_year;
 
-SELECT *
+SELECT common_year,
+	differences,
+	industry
 FROM v_katerina_rutova_pay_trend vkrpt 
+WHERE differences < 0
 ORDER BY common_year, industry_branch_code;
 
-SELECT industry_branch_code,
+SELECT
+	industry_branch_code,
 	industry,
 	payroll_trend
 FROM v_katerina_rutova_pay_trend  
 WHERE payroll_trend = 'decreasing'
 GROUP BY industry_branch_code;
+
