@@ -44,7 +44,9 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
    https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/cbb07fd9b885d7048de719550dd05e1f6223b650/table_2_final.sql#L25-L37
 
    ### **Výzkumné otázky**
-   ####*1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
+   ####*otázka č.1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
+   
+   
 
 
 
