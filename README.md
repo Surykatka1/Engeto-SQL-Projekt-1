@@ -28,5 +28,17 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
   *economies* - HDP, GINI, daňová zátěž, atd. pro daný stát a rok
 
 
+  ### **Kompletace tabulek SQL_primary_final_table a SQL_secondary_final_table**
+  Podrobnější popis jednotlivých scriptů je uveden v sekci comments on commit, který vždy náleží k dané části projektu.
+  V rámci projektu byly připraveny požadované tabulky (primary/secondary). Primary tabulka byla použita k vypracování otázek č.1-4,    
+  secondary tabulka posloužila k zodpovězení otázky č.5.
+  
+   *t_katerina_rutova_SQL_primary_final_table* - Tabulka obsahuje data týkající se mezd a cen potravin pro ČR sjednocené na porovnatelné  
+   období tj. společné roky.
+
+   Finální script, kterým je vytvořena primární tabulka, založená na výběru konkrétních hodnot za společné období (2006-2018)
+   https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/b9b0d36b0089afa6786f78a41bbfccd5c67c19d2/table_1_final.sql#L134-L149
+
+
 
 
