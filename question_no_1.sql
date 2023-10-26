@@ -48,6 +48,7 @@ FROM v_katerina_rutova_pay_trend vkrpt
 WHERE differences < 0
 ORDER BY common_year, industry_branch_code;
 
+
 SELECT
 	industry_branch_code,
 	industry,
@@ -55,4 +56,10 @@ SELECT
 FROM v_katerina_rutova_pay_trend  
 WHERE payroll_trend = 'decreasing'
 GROUP BY industry_branch_code;
+
+SELECT industry_branch_code 
+FROM t_katerina_rutova_project_sql_primary_final tkrpspf 
+GROUP BY industry_branch_code;
+-- celkový počet jednotlivých kategorií
+
 
