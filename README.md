@@ -44,7 +44,11 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
    https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/cbb07fd9b885d7048de719550dd05e1f6223b650/table_2_final.sql#L25-L37
 
    ### **Výzkumné otázky**
-   ####*otázka č.1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
+   *otázka č.1:* Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+   *odpověď:* Klesající trend mezd byl zaznamenán v letech 2009, 2010, 2011, 2013, 2014, 2015 a 2016, přičemž nejvíce klesaly mzdy v roce 2013. V tomto roce se pokles projevil v 11 odvětvích z celkového počtu 19. Naopak největší meziroční růst mezd proběhl v odvětví: Výroba a rozvody elektřiny a plynu, tepla a klimatiz. vzduchu v roce 2008 o 4,3%.
+    
+   https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/3cfb87477f5ce33eed6bf4c4c8a915c965b817d8/question_no_1.sql#L34-L42
+   https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/3cfb87477f5ce33eed6bf4c4c8a915c965b817d8/question_no_1.sql#L44-L49
    
    
 
