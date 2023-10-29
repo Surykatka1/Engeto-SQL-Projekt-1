@@ -61,4 +61,13 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/8ac53ca8b25d403121cb36c35c7c5c9b606989c2/question_no_2.sql#L21-L31
 
+ ***otázka č.3:*** Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+
+ ***odpověď:*** Nejnižší percentuální meziroční nárůst byl zaznamenám u potraviny Banány žluté (0,81%) a Vepřová pečené s kostí (0,99%). <br>
+ U položky Rajská jablka červená kulatá a Cukr krystalový došlo dokonce ke snížení ceny o 0,74% resp.1,92%.
+
+ https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/2054bc6bdd582a3e970ac345340c3435612799c0/question_no_3.sql#L23-L43
+
+ https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/2054bc6bdd582a3e970ac345340c3435612799c0/question_no_3.sql#L52-L57
+
 
