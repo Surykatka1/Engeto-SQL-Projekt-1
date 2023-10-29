@@ -70,12 +70,16 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/2054bc6bdd582a3e970ac345340c3435612799c0/question_no_3.sql#L52-L57
 
- ***otázka č.3:*** Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+ ***otázka č.4:*** Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
  ***odpověď:*** Průměrný růst cen u všech potravin nebyl nikdy o 10% vyšší než průměrný růst mezd.
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/b46245bd8e52a312e9b039d42132ca63764f9d98/question_no_4.sql#L43-L47
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/b46245bd8e52a312e9b039d42132ca63764f9d98/question_no_4.sql#L49-L59
+
+ ***otázka č.5:*** Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+
+ ***odpověď:*** 
 
 
