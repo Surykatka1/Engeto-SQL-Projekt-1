@@ -80,6 +80,8 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
 
  ***otázka č.5:*** Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
- ***odpověď:*** 
+ ***odpověď:*** Pro účely zodpovězení této otázky je nejprve potřeba si definovat výraznější růst HDP. Na základě scriptu viz.níže jsem si stanovila jako výraznější změnu HDP nad 3%.<br>
+ 
+ 
 
 
