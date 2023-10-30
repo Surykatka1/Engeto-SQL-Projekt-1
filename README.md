@@ -84,9 +84,14 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
  
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/e9fa03c99dfc634b0f9e8bc9df6bcf6615c3106a/question_no_5_v2.sql#L6-L13
  
- V následujícím scriptem byl stanoven procentuální rozdíl v cenách a mzdách vzhledem k předchozímu roku.
+ Následujícím scriptem byl stanoven procentuální rozdíl v cenách a mzdách vzhledem k předchozímu roku.
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/4c6fbc7f39a90eac22c7259b4c988e07773492d3/question_no_5_v2.sql#L31-L46
+
+ Spojením pohledů vygenerovaných předchozími kroky byla vytvořena následující tabulka t_katerina_rutova_gdp_price_payroll, obsahují veškerá kriteria potřebná k vyhodnocení otázky.
  
+ https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/4c6fbc7f39a90eac22c7259b4c988e07773492d3/question_no_5_v2.sql#L52-L61
 
+ Výsledná evaluace na základě stanovených podmínek resp. hranice 3%.
 
+https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/4ee2818df7b557e6620ac701daf315b0117a692a/question_no_5_v2.sql#L68-L87
