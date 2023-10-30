@@ -27,7 +27,7 @@ SELECT common_year,
 	avg_price,
 	unit,
 	round(lag(avg_price) OVER (PARTITION BY product_name ORDER BY common_year), 2) AS previous_price,
-	avg_price-round(lag(avg_price) OVER (PARTITION BY product_name ORDER BY common_year), 2) AS difference,	
+	avg_price-round(lag(avg_price) OVER (PARTITION BY product_name ORDER BY common_year) AS difference,	
 	round (((avg_price-round(lag(avg_price) OVER (PARTITION BY product_name ORDER BY common_year), 2))/round(lag(avg_price)
 		OVER (PARTITION BY product_name ORDER BY common_year), 2))*100, 2) AS percentage_difference
 FROM (
