@@ -56,14 +56,14 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
  ***otázka č.2:*** Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
  ***odpověď:*** Z výsledků vyplývá následující: V průběhu lety (2006-2018) vzrostla průměrná cena obou komodit a zároveň došlo k navýšení průměrných platů.
- V roce 2006 bylo možné za průměrný roční plat (21 165 Kč) koupit 1313 kg chleba konzumního kmínového nebo 1466 l mléka.
- V roce 2018 byl průměrný roční plat 33 092 Kč a množství chleba a mléka, který si lidé mohli pořídit, stouplo na 1365 kg a 1670 l.
+ V roce 2006 bylo možné za průměrný roční plat (21 165 Kč) koupit 1313 kg chleba konzumního kmínového nebo 1466 l mléka polotučného pasterovaného.
+ V roce 2018 byl průměrný roční plat 33 092 Kč a množství chleba a mléka, které si lidé mohli pořídit, stouplo na 1365 kg a 1670 l.
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/8ac53ca8b25d403121cb36c35c7c5c9b606989c2/question_no_2.sql#L21-L31
 
  ***otázka č.3:*** Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
- ***odpověď:*** Nejnižší percentuální meziroční nárůst byl zaznamenám u potraviny Banány žluté (0,81%) a Vepřová pečené s kostí (0,99%). <br>
+ ***odpověď:*** Nejnižší procentuální meziroční nárůst byl zaznamenám u potraviny Banány žluté (0,81%) a Vepřová pečené s kostí (0,99%). <br>
  U položky Rajská jablka červená kulatá a Cukr krystalový došlo dokonce ke snížení ceny o 0,74% resp.1,92%.
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/2054bc6bdd582a3e970ac345340c3435612799c0/question_no_3.sql#L23-L43
@@ -82,6 +82,11 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
 
  ***odpověď:*** Pro účely zodpovězení této otázky je nejprve potřeba si definovat výraznější růst HDP. Na základě scriptu viz.níže jsem si stanovila jako výraznější změnu HDP nad 3%.<br>
  
+ https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/e9fa03c99dfc634b0f9e8bc9df6bcf6615c3106a/question_no_5_v2.sql#L6-L13
+ 
+ V následujícím scriptem byl stanoven procentuální rozdíl v cenách a mzdách vzhledem k předchozímu roku.
+
+ https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/4c6fbc7f39a90eac22c7259b4c988e07773492d3/question_no_5_v2.sql#L31-L46
  
 
 
