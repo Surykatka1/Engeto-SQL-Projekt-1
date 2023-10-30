@@ -27,7 +27,7 @@ SELECT common_year,
 FROM t_katerina_rutova_project_sql_primary_final tkrpspf
 GROUP BY common_year, product_name, avg_price 
 
--- Stanovení % rozdílu cen a mezd vůči nadcházejícímu roku
+-- Stanovení % rozdílu cen a mezd vůči předcházejícímu roku
 CREATE OR REPLACE VIEW v_katerina_rutova_pay_price_diff AS
 SELECT `year`,
 	avg_payroll_per_year,
