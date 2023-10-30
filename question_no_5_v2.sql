@@ -84,4 +84,4 @@ SELECT `year`,
 		WHEN `%_diff_price`< 3 THEN 'price-'
 		ELSE 'no_price_changing'
 	END AS price_changing
-FROM t_katerina_rutova_gdp_price_payroll tkrgpp
+FROM t_katerina_rutova_gdp_price_payroll tkrgpp;
