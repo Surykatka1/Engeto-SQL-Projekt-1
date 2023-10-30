@@ -80,7 +80,11 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
 
  ***otázka č.5:*** Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
- ***odpověď:*** Pro účely zodpovězení této otázky je nejprve potřeba si definovat výraznější růst HDP. Na základě scriptu viz.níže jsem si stanovila jako výraznější změnu HDP nad 3%.<br>
+ ***odpověď:*** Pro účely zodpovězení této otázky je nejprve potřeba si definovat výraznější růst HDP. Na základě scriptu viz.níže byla jako výraznější změna HDP stanovena hranice 3%.<br>
+ HDP vzrostlo o více než 3% v letech 2007, 2015, 2017 a 2018. Výraznější růst HDP v roce 2007 ovlivnilo ceny potravin a mzdy. Vzrůstající trend růstu cen a mezd pokračoval i v roce 
+ 2008. <br>
+ V roce 2015 sice došlo k nárůstu HDP nad 3%, ale ceny a mzdy v témže či následujícím roce ovlivněny nebyly (vyjma mezd za rok 2016).<br>
+ V roce 2017 došlo k nárůstu ve všech sledovaných aspektech a vzrůstající tendence se nadále projevila i v roce 2018 kromě cen potravin, které se držely pod stanovenou hranicí 3%.
  
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/e9fa03c99dfc634b0f9e8bc9df6bcf6615c3106a/question_no_5_v2.sql#L6-L13
  
