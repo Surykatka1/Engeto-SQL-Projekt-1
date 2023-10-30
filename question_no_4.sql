@@ -10,8 +10,6 @@ FROM t_katerina_rutova_project_SQL_primary_final tkrpspf
 WHERE common_year  = 2006;
 -- 45.515769
 
--- Vypočítám  průměr všech produktů pro daný rok.
--- Stanovím rozdíl v % oproti předchozím rokům.
 CREATE OR REPLACE VIEW v_katerina_rutova_q4_price AS
 SELECT common_year,
 	round (avg(avg_price),2) AS avg_price_per_year,
@@ -24,8 +22,7 @@ GROUP BY common_year;
 SELECT *
 FROM v_katerina_rutova_q4_price vkrqp;
 
--- Vypočítám si průměr mezd za všechna odvětví pro daný rok.
--- Stanovím rozdíl v % oproti předchozím rokům.
+
 CREATE OR REPLACE VIEW v_katerina_rutova_q4_payroll AS
 SELECT common_year AS common_year_1,
 	round (avg(avg_payroll),0) AS avg_payroll_per_year,
