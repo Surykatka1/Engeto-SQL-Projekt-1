@@ -1,5 +1,5 @@
+Kateřina Růtová, Discord name: Káťa R. kata._16527
 -- 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-
 CREATE OR REPLACE VIEW v_katerina_rutova_lag_year AS
 SELECT DISTINCT industry_branch_code,
 	common_year,	
