@@ -55,9 +55,9 @@ Veškerá data k vytvoření tabulek a zodpovězení výzkumných otázek jsou k
    
  ***otázka č.2:*** Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
- ***odpověď:*** Z výsledků vyplývá následující: V průběhu lety (2006-2018) vzrostla průměrná cena obou komodit a zároveň došlo k navýšení průměrných platů.
+ ***odpověď:*** Z výsledků vyplývá následující: V průběhu let (2006-2018) vzrostla průměrná cena obou komodit a zároveň došlo k navýšení průměrných platů.
  V roce 2006 bylo možné za průměrný roční plat (21 165 Kč) koupit 1313 kg chleba konzumního kmínového nebo 1466 l mléka polotučného pasterovaného.
- V roce 2018 byl průměrný roční plat 33 092 Kč a množství chleba a mléka, které si lidé mohli pořídit, stouplo na 1365 kg a 1670 l.
+ V roce 2018 byl průměrný roční plat 33 092 Kč a množství chleba resp. mléka, které si lidé mohli pořídit, stouplo na 1365 kg a 1670 l.
 
  https://github.com/Surykatka1/Engeto-SQL-Projekt-1/blob/8ac53ca8b25d403121cb36c35c7c5c9b606989c2/question_no_2.sql#L21-L31
 
